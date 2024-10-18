@@ -6,7 +6,7 @@ import socket
 import subprocess
 import oneM2Mget
 # Replace with your bot token
-BOT_TOKEN = '7412320007:AAGQtfSyJpMXbibi1eak5sVWR4ziPtU8aiY'
+BOT_TOKEN = ''
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Function to convert text to speech and play it
